@@ -1,9 +1,9 @@
-HR Analytics – Attrition Analysis
+**HR Analytics – Attrition Analysis**
 Overview
 
 This Power BI project analyzes employee attrition trends to identify key drivers of turnover and provide actionable recommendations for retention. The dataset includes demographic, salary, tenure, education, job satisfaction, and role-based details for 1,480 employees, of which 238 have left (16% attrition rate).
 
-Objectives
+**Objectives**
 
 Measure overall attrition rate and identify high-risk employee groups.
 
@@ -11,7 +11,7 @@ Determine key factors influencing attrition (salary, tenure, age, education, sat
 
 Provide insights for HR decision-making and workforce stability.
 
-Key Insights
+**Key Insights**
 
 Salary Impact: 68% of attrition occurs in employees earning less than $5k/month.
 
@@ -21,23 +21,7 @@ Role Vulnerability: Research Scientists, HR, and Sales Reps have the highest tur
 
 Satisfaction: Even high satisfaction employees leave, indicating multi-factor causes beyond morale.
 
-KPIs in the Dashboard
-
-Attrition Rate (%)
-
-Attrition by Job Role
-
-Attrition by Salary
-
-Attrition by Tenure
-
-Attrition by Age
-
-Attrition by Education Field
-
-Attrition by Job Satisfaction
-
-Recommendations
+**Recommendations**
 
 Adjust salary bands for low-earning employees.
 
@@ -47,12 +31,7 @@ Provide clear career progression paths in high-risk roles.
 
 Introduce targeted retention strategies for mid-career employees.
 
-How to Use the Dashboard
 
-Open the .pbix file in Power BI Desktop.
 
-Interact with slicers to filter data by department, role, or satisfaction.
 
-Use visual tooltips for detailed employee group insights.
 
-Refer to the Recommendations page for actionable next steps
